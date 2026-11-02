@@ -1,0 +1,44 @@
+[
+    {
+        "id": "P01",
+        "name": "Pagne wax 6 yards",
+        "price": 12000,
+        "stock": 14,
+        "description": "Pagne wax de 6 yards."
+    },
+    {
+        "id": "P02",
+        "name": "Chemise bazin homme",
+        "price": 18500,
+        "stock": 3,
+        "description": "Chemise en tissu bazin pour homme."
+    },
+    {
+        "id": "P03",
+        "name": "Sac en raphia",
+        "price": 7500,
+        "stock": 0,
+        "description": "Sac artisanal en raphia."
+    },
+    {
+        "id": "P04",
+        "name": "Sandales en cuir",
+        "price": 9000,
+        "stock": 8,
+        "description": "Sandales en cuir."
+    },
+    {
+        "id": "P05",
+        "name": "Robe en wax",
+        "price": 22000,
+        "stock": 5,
+        "description": "Robe confectionnée en tissu wax."
+    },
+    {
+        "id": "P06",
+        "name": "Beurre de karité 500 g",
+        "price": 3500,
+        "stock": 40,
+        "description": "Beurre de karité conditionné en pot de 500 g."
+    }
+]
